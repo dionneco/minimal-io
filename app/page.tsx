@@ -1,3 +1,6 @@
+"use client";
+
+// Rest of your page.tsx code
 import React, { useState, useRef, useEffect } from 'react';
 import { Music, BarChart2, Wallet, FileMusic, Upload, Brain } from 'lucide-react';
 
